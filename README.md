@@ -1,0 +1,2 @@
+# CookieClicker for NumWorks
+ 
